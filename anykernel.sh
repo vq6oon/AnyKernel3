@@ -4,7 +4,7 @@
 ### AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=ShockWAVE Kernel
+kernel.string=Lamp1on Kernel
 do.devicecheck=0
 do.modules=0
 do.systemless=1
