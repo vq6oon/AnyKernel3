@@ -48,9 +48,6 @@ if isTimRom; then
 
     . tools/ak3-core.sh;
 
-    ui_print " » Custom ROM recognition: Tim's Signature ";
-    ui_print " » Initiating vibration fix deployment "
-    ui_print " » Executing NoVA flash....";
 
     split_boot;
     patch_cmdline initcall_blacklist initcall_blacklist=
