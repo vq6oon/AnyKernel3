@@ -4,7 +4,7 @@
 ### AnyKernel setup
 # global properties
 properties() { '
-kernel.string=PoWeR v4.14.355 neutron-KSU by SaiKrishna for Redmi Note 8 Pro (begonia) | KernelSU Version: 10200
+kernel.string=Kurap1kaKernel For Redmi Note 8 Pro
 do.devicecheck=1
 do.modules=0
 do.systemless=1
