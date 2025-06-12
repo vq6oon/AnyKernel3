@@ -4,7 +4,7 @@
 ### AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=LampionProject
+kernel.string=Kurap1kaKernel For Redmi Note 9 By @vq6oon
 do.devicecheck=0
 do.modules=0
 do.systemless=1
