@@ -4,7 +4,7 @@
 ### AnyKernel setup
 # global properties
 properties() { '
-kernel.string=Kurap1kaKernel For Redmi Note 8 Pro By @vq6oon
+kernel.string=Lamp1onKernel For Redmi Note 8 Pro By @vq6oon
 do.devicecheck=1
 do.modules=0
 do.systemless=1
