@@ -4,17 +4,14 @@
 ### AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=Lamp1onKernel For Redmi Note 9 By @vq6oon
+kernel.string=AuroraStellar For Redmi Note 9 By @vq6oon
 do.devicecheck=0
 do.modules=0
 do.systemless=1
 do.cleanup=1
 do.cleanuponabort=0
-device.name1=maguro
-device.name2=toro
-device.name3=toroplus
-device.name4=tuna
-device.name5=
+device.name1=merlin
+device.name2=lancelot
 supported.versions=
 supported.patchlevels=
 '; } # end properties
