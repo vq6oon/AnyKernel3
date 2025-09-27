@@ -4,7 +4,7 @@
 ### AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=AuroraStellar For Redmi Note 9 By @vq6oon
+kernel.string=AuroraStellar For Redmi Note 9 & Redmi 9 By @vq6oon
 do.devicecheck=0
 do.modules=0
 do.systemless=1
