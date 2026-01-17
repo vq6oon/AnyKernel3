@@ -4,7 +4,7 @@
 ### AnyKernel setup
 # global properties
 properties() { '
-kernel.string=Kernel by aryannn999 @ xda-developers
+kernel.string=AuroraStellar For Xiaomi Mi 11 Lite By @vq6oon
 do.devicecheck=1
 do.modules=0
 do.systemless=1
